@@ -28,5 +28,7 @@ Simple idea of tracking three sums as you go rather than trying to first create 
 
 Very straightforward loop with string matching. Looking forward to later challenges.
 
+## 03
 
+Today's challenge was enjoyable. I learned a fast bit conversion in Crystal and I'm starting to get a little understanding of the types and address space.
 
